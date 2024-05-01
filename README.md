@@ -1,4 +1,4 @@
-# [friend-balance-tracker]
+# [eat-n-split tracker app]
 
 **Project Goals:**
 
